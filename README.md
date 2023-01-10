@@ -19,7 +19,6 @@
   - Express.js
   - CSS | SCSS | Bulma Framework | Bootstrap
   - HTML5
-  :a
 
 >### 🖼️ Frameworks
   - Angualar
