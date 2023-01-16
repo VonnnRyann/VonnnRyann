@@ -35,7 +35,7 @@
 
 
 
-#### 📫 How to reach me VonnRyannCruz22@gmail.com...
+#### 📫 How to reach me VonnRyannCruz22@gmail.com
 
 
 
