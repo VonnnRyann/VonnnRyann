@@ -20,7 +20,7 @@
   - CSS | SCSS | Bulma Framework | Bootstrap
   - HTML5
 
->### 🖼️ Frameworks
+>### 🖼️ Frameworks | 📖  Library
   - Angualar
   - React.js
     - Next.js
