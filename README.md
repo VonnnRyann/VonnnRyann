@@ -15,11 +15,13 @@
 
   - Javascript 
   - Typescript
+  - PHP
+  - MySql
   - Node.js
   - Express.js
-  - CSS | SCSS | Bulma Framework | Bootstrap
+  - CSS | SCSS | Bulma Framework | Bootstrap | Less
   - HTML5
-
+ 
 >### 🖼️ Frameworks | 📖  Library
   - Angualar
   - React.js
