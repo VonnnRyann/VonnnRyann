@@ -1,4 +1,4 @@
-#  Hi, My name is Vonn Ryann. Looking for new challenges and love coding.
+#  Hi, My name is Vonn Ryann. Have a Great Day.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" height="400px" width="100%" srcset="https://images.pexels.com/photos/301599/pexels-photo-301599.jpeg?cs=srgb&dl=pexels-pixabay-301599.jpg&fm=jpg">
