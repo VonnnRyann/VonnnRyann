@@ -16,7 +16,7 @@
   - Javascript 
   - Typescript
   - PHP
-  - MySql
+  - SQL
   - Node.js
   - Express.js
   - CSS | SCSS | Bulma Framework | Bootstrap | Less
@@ -32,6 +32,7 @@
   - Github
   - Vercel
   - Heroku
+  - MySql
 
 
 
